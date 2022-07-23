@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+
+}
+#menu{
+    background-color: rgb(164, 187, 229);;
+    height: 50px;
+    width: 100%;
+    box-shadow: 20px 0px 20px 0px;
+  
+
+}
+#left{
+    float: left;
+    margin:20px;
+    
+}
+#right{
+    float: right;
+    display: flex;
+    margin:10px;
+}
+#right h3{
+    float: left;
+   
+}
+#right img{
+    width: 20px;
+    height:20px;
+    margin: 5px;
+    border-radius: 100%;
+}
+#main{
+    
+}
+#main h1{
+    margin-top: 40px;
+    margin-left: 100px;
+    text-shadow:  2px 2px rgb(196, 190, 190);
+
+}
+#list{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+    
+}
+#list .li{
+    padding:40px;
+}
+#list .li span{
+    margin-left: 20px;
+    font-weight: 1000;
+}
+#list .li #one{
+    padding: 20px;
+    background-color: rgb(164, 187, 229);
+    margin: 10px;
+    list-style-type: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #000;
+    
+}
+#list .li #two{
+    padding: 20px;
+    list-style-type: none;
+    margin: 10px;
+    background-color:  rgb(164, 187, 229);;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #000;
+
+}
+#list .li #three{
+    padding: 20px;
+    margin: 10px;
+    list-style-type: none;
+    background-color:  rgb(164, 187, 229);;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #000;
+
+}
+#list .li #four{
+    padding: 20px;
+    margin: 10px;
+    list-style-type: none;
+    background-color:  rgb(164, 187, 229);;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #000;
+}
